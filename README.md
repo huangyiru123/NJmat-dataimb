@@ -1,2 +1,2 @@
-# NJmat-dataimb
-SMOTE，data imbalance, for extra tree/randomforest/...
+# NJmat
+This branch stores updated source codes for NJmat
